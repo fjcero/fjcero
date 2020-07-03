@@ -6,8 +6,6 @@ I craft software with a combination of high-quality standards and elegant user-e
 
 The passion for entrepreneurship, teamwork, leadership, and my experience growing startup cultures and building products, led me to the journey of working on challenging problems alongside fast-paced teams that prioritize data-based decisions to create things people want.
 
-You can found me in all these places ↓
-
 <!--
 **fjcero/fjcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
