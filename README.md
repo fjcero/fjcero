@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Product-minded and multiple hats wearer software engineer, focused on delivering value in every part of the product lifecycle, always taking data-driven decisions with more than 14 years of experience as a Software Engineer for a wide range of industries in Startups, Large Companies, and fully Remote contexts.
+I am a Product-minded and multiple hats wearer software engineer, focused on delivering value in every part of the product lifecycle, always taking data-driven decisions with more than 20 years of experience as a Software Engineer for a wide range of industries in Startups, Large Companies, and fully Remote contexts.
 
 I craft software with a combination of high-quality standards and elegant user-experiences.
 
